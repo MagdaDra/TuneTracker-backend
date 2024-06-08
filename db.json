@@ -1,16 +1,16 @@
 {
-  "users": [
+  "albums": [
     {
       "id": 1,
-      "email": "magda.draszczyk@gmail.com",
-      "password": "Ironhack1234?"
-      
+      "title": "The Tortured Poets Department",
+      "artist": "Taylor Swift",
+      "img": "https://taylorpictures.net/albums/albums/thetorturedpoetsdepartment/theanthology/normal_001.jpg"
     },
     {
       "id": 2,
-      "email": "sam@gmail.com",
-      "password": "No1?"
-      
+      "title": "Stadium Arcadium",
+      "artist": "Red Hot Chili Peppers",
+      "img": "https://img.fruugo.com/product/2/99/937316992_max.jpg"
     }
   ]
 }
