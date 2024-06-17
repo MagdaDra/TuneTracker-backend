@@ -1,16 +1,24 @@
 {
   "albums": [
     {
-      "id": 1,
-      "title": "The Tortured Poets Department",
-      "artist": "Taylor Swift",
-      "img": "https://taylorpictures.net/albums/albums/thetorturedpoetsdepartment/theanthology/normal_001.jpg"
+      "title": "Tattoo You",
+      "artist": "The Rolling Stones",
+      "img": "https://static.fnac-static.com/multimedia/Images/PT/NR/96/dc/74/7658646/1540-1.jpg",
+      "id": 4
+    }
+  ],
+  "wishlist": [
+    {
+      "title": "Tattoo You",
+      "artist": "The Rolling Stones",
+      "img": "https://static.fnac-static.com/multimedia/Images/PT/NR/96/dc/74/7658646/1540-1.jpg",
+      "id": 4
     },
     {
-      "id": 2,
-      "title": "Stadium Arcadium",
-      "artist": "Red Hot Chili Peppers",
-      "img": "https://img.fruugo.com/product/2/99/937316992_max.jpg"
+      "name": "Black Holes and Revelations",
+      "artist": "Muse",
+      "image": "https://i.scdn.co/image/ab67616d00001e0228933b808bfb4cbbd0385400",
+      "id": 5
     }
   ]
 }
