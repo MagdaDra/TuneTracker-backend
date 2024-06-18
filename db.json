@@ -1,10 +1,10 @@
 {
   "albums": [
     {
-      "title": "Tattoo You",
+      "title": "Tatto You",
       "artist": "The Rolling Stones",
       "img": "https://static.fnac-static.com/multimedia/Images/PT/NR/96/dc/74/7658646/1540-1.jpg",
-      "id": 4
+      "id": 1
     }
   ],
   "wishlist": [
@@ -12,13 +12,19 @@
       "title": "Tattoo You",
       "artist": "The Rolling Stones",
       "img": "https://static.fnac-static.com/multimedia/Images/PT/NR/96/dc/74/7658646/1540-1.jpg",
-      "id": 4
+      "id": 6
     },
     {
-      "name": "Black Holes and Revelations",
-      "artist": "Muse",
-      "image": "https://i.scdn.co/image/ab67616d00001e0228933b808bfb4cbbd0385400",
-      "id": 5
+      "title": "The Lion King: The Gift [Deluxe Edition]",
+      "artist": "Beyonce",
+      "img": "https://i.scdn.co/image/ab67616d00001e0260e232dede80f62f9bfc8eda",
+      "id": 7
+    },
+    {
+      "title": "COWBOY CARTER",
+      "artist": "Beyoncé",
+      "img": "https://i.scdn.co/image/ab67616d00001e021572698fff8a1db257a53599",
+      "id": 8
     }
   ]
 }
