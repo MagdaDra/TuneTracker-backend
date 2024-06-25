@@ -1,45 +1,40 @@
 {
   "albums": [
     {
-      "title": "Return of the Dream Canteen",
-      "artist": "Red Hot Chili Peppers",
-      "img": "https://i.scdn.co/image/ab67616d00001e02aa50644f05f26e73ba950b8c",
-      "spotify_id": "0KJc9ksnoJJsdpQxV3z5i1",
+      "title": "checking",
+      "artist": "Gracie Abrams",
+      "img": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "user": "magda.draszczyk",
       "id": 1
     },
     {
-      "title": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-      "artist": "Taylor Swift",
-      "img": "https://i.scdn.co/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
-      "spotify_id": "5H7ixXZfsNMGbIE5OBSpcb",
-      "id": 2
-    },
-    {
-      "title": "PATOPOP (Vol. 1)",
-      "artist": "Kizo",
-      "img": "https://i.scdn.co/image/ab67616d00001e0237bdb557e66ad593fcb47216",
-      "spotify_id": "1vn8JolZTeJDIzD0Dbrhxv",
-      "id": 3,
-      "user": "luceduarte"
-    }
-  ],
-  "wishlist": [
-    {
-      "title": "Never Let Me Go",
-      "artist": "Placebo",
-      "img": "https://i.scdn.co/image/ab67616d00001e029032f1862bccb4a1b4ec6a47",
-      "spotify_id": "5yzRkYV3JUXfM7u4fBUFHX",
-      "id": 1
-    },
-    {
-      "title": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-      "artist": "Taylor Swift",
-      "img": "https://i.scdn.co/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
-      "spotify_id": "5H7ixXZfsNMGbIE5OBSpcb",
+      "title": "Tattoo You",
+      "artist": "The Rolling Stones",
+      "img": "https://static.fnac-static.com/multimedia/Images/PT/NR/96/dc/74/7658646/1540-1.jpg",
+      "user": "magda.draszczyk",
       "id": 2
     }
   ],
+  "wishlist": [],
   "ratings": [
-
-  ]
+    {
+      "ratingValue": 2,
+      "user": "magda.draszczyk",
+      "spotify_id": "56bdWeO40o3WfAD2Lja4dl",
+      "id": 1
+    },
+    {
+      "ratingValue": 4,
+      "user": "magda.draszczyk",
+      "spotify_id": "1vn8JolZTeJDIzD0Dbrhxv",
+      "id": 2
+    },
+    {
+      "ratingValue": 4,
+      "user": "magda.draszczyk",
+      "spotify_id": "5H7ixXZfsNMGbIE5OBSpcb",
+      "id": 3
+    }
+  ],
+  "reviews": []
 }
