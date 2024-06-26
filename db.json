@@ -1,24 +1,27 @@
 {
   "albums": [
     {
-      "title": "checking",
-      "artist": "Gracie Abrams",
-      "img": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "title": "Pokolenie Końca Świata",
+      "artist": "Kacperczyk",
+      "img": "https://i.scdn.co/image/ab67616d00001e028b8a22d33e7795e33e254a32",
+      "spotify_id": "4t2QpNGwVjBxbzEiPbJabK",
       "user": "magda.draszczyk",
       "id": 1
-    },
-    {
-      "title": "Tattoo You",
-      "artist": "The Rolling Stones",
-      "img": "https://static.fnac-static.com/multimedia/Images/PT/NR/96/dc/74/7658646/1540-1.jpg",
-      "user": "magda.draszczyk",
-      "id": 2
     }
   ],
-  "wishlist": [],
+  "wishlist": [
+    {
+      "title": "The Secret of Us",
+      "artist": "Gracie Abrams",
+      "img": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "spotify_id": "56bdWeO40o3WfAD2Lja4dl",
+      "user": "magda.draszczyk",
+      "id": 1
+    }
+  ],
   "ratings": [
     {
-      "ratingValue": 2,
+      "ratingValue": 4,
       "user": "magda.draszczyk",
       "spotify_id": "56bdWeO40o3WfAD2Lja4dl",
       "id": 1
@@ -34,7 +37,26 @@
       "user": "magda.draszczyk",
       "spotify_id": "5H7ixXZfsNMGbIE5OBSpcb",
       "id": 3
+    },
+    {
+      "ratingValue": 5,
+      "user": "magda.draszczyk",
+      "spotify_id": "4t2QpNGwVjBxbzEiPbJabK",
+      "id": 4
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "review": "Best new discovery",
+      "author": "Magda",
+      "album_id": "4t2QpNGwVjBxbzEiPbJabK",
+      "id": 1
+    },
+    {
+      "review": "Best discovery of this week",
+      "author": "Magda",
+      "album_id": "4t2QpNGwVjBxbzEiPbJabK",
+      "id": 2
+    }
+  ]
 }
