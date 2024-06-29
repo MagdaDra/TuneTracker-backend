@@ -11,10 +11,10 @@
   ],
   "wishlist": [
     {
-      "title": "The Secret of Us",
-      "artist": "Gracie Abrams",
-      "img": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
-      "spotify_id": "56bdWeO40o3WfAD2Lja4dl",
+      "title": "Never Let Me Go",
+      "artist": "Placebo",
+      "img": "https://i.scdn.co/image/ab67616d00001e029032f1862bccb4a1b4ec6a47",
+      "spotify_id": "5yzRkYV3JUXfM7u4fBUFHX",
       "user": "magda.draszczyk",
       "id": 1
     }
@@ -39,10 +39,28 @@
       "id": 3
     },
     {
-      "ratingValue": 5,
+      "ratingValue": 4,
       "user": "magda.draszczyk",
       "spotify_id": "4t2QpNGwVjBxbzEiPbJabK",
       "id": 4
+    },
+    {
+      "ratingValue": 4,
+      "user": "magda.draszczyk",
+      "spotify_id": "3Us57CjssWnHjTUIXBuIeH",
+      "id": 5
+    },
+    {
+      "ratingValue": 4,
+      "user": "magda.draszczyk",
+      "spotify_id": "004ywPlW72Hgn1Bo9PlNOr",
+      "id": 6
+    },
+    {
+      "ratingValue": 4,
+      "user": "magda.draszczyk",
+      "spotify_id": "3XZ5XgJgUtCNNFr6VrU8PW",
+      "id": 7
     }
   ],
   "reviews": [
@@ -51,12 +69,6 @@
       "author": "Magda",
       "album_id": "4t2QpNGwVjBxbzEiPbJabK",
       "id": 1
-    },
-    {
-      "review": "Best discovery of this week",
-      "author": "Magda",
-      "album_id": "4t2QpNGwVjBxbzEiPbJabK",
-      "id": 2
     }
   ]
 }

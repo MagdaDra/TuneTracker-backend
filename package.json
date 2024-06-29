@@ -2,10 +2,10 @@
   "name": "json-server-mock-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
+    "start": "node api/app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [],
